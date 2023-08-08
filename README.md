@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Agarwal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarupathak&label=Profile%20views&color=0e75b6&style=flat" alt="tarupathak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tech-Shreyansh&label=Profile%20views&color=0e75b6&style=flat" alt="Tech-Shreyansh" /> </p>
 
 - 🎓 Pursuing Bachelor's Degree in Computer Science Engineering.
 
